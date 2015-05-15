@@ -1,1 +1,4 @@
-__author__ = 'evilkhaoskat'
+class Planet:
+    name = "Unnamed Planet"
+    owner = None
+    fleets = []

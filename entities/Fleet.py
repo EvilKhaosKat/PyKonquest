@@ -1,1 +1,4 @@
-__author__ = 'evilkhaoskat'
+class Fleet:
+    name = "Unnamed Fleet"
+    owner = None
+    ship_count = 0

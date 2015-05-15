@@ -1,1 +1,2 @@
-__author__ = 'evilkhaoskat'
+class Player:
+    name = "Unnamed Player"
